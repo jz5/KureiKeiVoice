@@ -49,7 +49,7 @@
     // icon
     var html = "";
     for (var i = 0; i <= 9; i++) {
-        html += '<div class="trim"><a href="#"><img src="img/face' + i + '.png" class="icon" data-content="' + i + '" /></a></div>';
+        html += '<div class="trim"><a href="#"><img src="//pronama.jp/voice/img/face' + i + '.png" class="icon" data-content="' + i + '" /></a></div>';
     }
     $("#icons").html(html);
     $(".icon").click(function () {
@@ -139,7 +139,7 @@
 
         g_face = id;
 
-        $("#face").attr("src", "img/face" + id + ".png");
+        $("#face").attr("src", "//pronama.jp/voice/img/face" + id + ".png");
         setTwit();
     }
 

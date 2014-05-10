@@ -118,9 +118,58 @@
     <Content Include="img\face9.png" />
     <Content Include="img\logo.png" />
     <Content Include="img\Twitter_logo_blue.png" />
+    <Content Include="player\build\background.png" />
+    <Content Include="player\build\bigplay.png" />
+    <Content Include="player\build\bigplay.svg" />
+    <Content Include="player\build\controls-ted.png" />
+    <Content Include="player\build\controls-wmp-bg.png" />
+    <Content Include="player\build\controls-wmp.png" />
+    <Content Include="player\build\controls.png" />
+    <Content Include="player\build\controls.svg" />
+    <Content Include="player\build\DO NOT CHANGE THESE FILES. USE -src- FOLDER.txt" />
+    <Content Include="player\build\flashmediaelement-cdn.swf" />
+    <Content Include="player\build\flashmediaelement.swf" />
+    <Content Include="player\build\jquery.js" />
+    <Content Include="player\build\loading.gif" />
+    <Content Include="player\build\mediaelement-and-player.js" />
+    <Content Include="player\build\mediaelement-and-player.min.js" />
+    <Content Include="player\build\mediaelement.js" />
+    <Content Include="player\build\mediaelement.min.js" />
+    <Content Include="player\build\mediaelementplayer.css" />
+    <Content Include="player\build\mediaelementplayer.js" />
+    <Content Include="player\build\mediaelementplayer.min.css" />
+    <Content Include="player\build\mediaelementplayer.min.js" />
+    <Content Include="player\build\mejs-skins.css" />
+    <Content Include="player\build\silverlightmediaelement.xap" />
+    <Content Include="player\img\face0.png" />
+    <Content Include="player\img\face1.png" />
+    <Content Include="player\img\face2.png" />
+    <Content Include="player\img\face3.png" />
+    <Content Include="player\img\face4.png" />
+    <Content Include="player\img\face5.png" />
+    <Content Include="player\img\face6.png" />
+    <Content Include="player\img\face7.png" />
+    <Content Include="player\img\face8.png" />
+    <Content Include="player\img\face9.png" />
+    <Content Include="player\img\img0.png" />
+    <Content Include="player\img\img1.png" />
+    <Content Include="player\img\img2.png" />
+    <Content Include="player\img\img3.png" />
+    <Content Include="player\img\img4.png" />
+    <Content Include="player\img\img5.png" />
+    <Content Include="player\img\img6.png" />
+    <Content Include="player\img\img7.png" />
+    <Content Include="player\img\img8.png" />
+    <Content Include="player\img\img9.png" />
+    <Content Include="player\lib\css\bootstrap.min.css" />
+    <Content Include="player\lib\css\ie.css" />
+    <Content Include="player\lib\css\jquery.maximage.css" />
+    <Content Include="player\lib\css\jquery.maximage.min.css" />
+    <Content Include="player\lib\css\print.css" />
+    <Content Include="player\lib\css\screen.css" />
+    <Content Include="player\player.php" />
     <Content Include="voice.css" />
     <Content Include="voice.js" />
-    <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -153,7 +202,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="build\Thumbs.db" />
+    <Content Include="index.vbhtml" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
